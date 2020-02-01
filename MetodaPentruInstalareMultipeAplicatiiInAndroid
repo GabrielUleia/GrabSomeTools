@@ -1,0 +1,17 @@
+de aici: 
+https://www.androidbean.com/install-multiple-android-apps/
+
+
+Method 2: Use “ADB Tool” to Install Multiple Android apps at once:How to Install Multiple Android Apps at Once 
+
+Another easy way to install multiple Android apps at once is by using the ADB tool. ADB is a short form for Android Debugging Bridge and helps in doing a variety of debugging and installation tasks on Android devices.
+
+To begin with, download and install the ADB tool from here on your PC.
+Also, download and install the setup file from here on your PC.
+Enable USB Debugging on your Android device by going through Settings>Developer Options> and then switching ON the USB Debugging feature.
+On your PC, create a new folder with name “Application” in the “D:” drive and store the APK files of all the applications you wish to install on your Android device in this new folder.
+Connect your Android device to the PC.
+Launch the Command Prompt window on your PC.
+Now, type the command “adb devices” and press Enter.
+Next, type the command “for /r %f in (D:\Application\*.apk) do adb install -r “%f”” and press Enter.
+Now, all the applications that are present in the “Application” folder will be installed on your Android device.
