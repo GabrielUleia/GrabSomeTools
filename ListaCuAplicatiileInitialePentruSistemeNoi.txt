@@ -1,0 +1,26 @@
+
+WINDOWS: 
+	FreeCommander 
+	Notepad++ 
+	KeePass portable 
+	7zip 
+	Daemon tools 
+	Chrome 
+	Firefox 
+	Syncthing portable 
+
+
+ANDROID: 
+	Amaze 
+	Sheets 
+	AdobeReader 
+	Lampe de Poche 
+	etc 
+
+
+LINUX: 
+	un commander 
+	etc
+
+
+
