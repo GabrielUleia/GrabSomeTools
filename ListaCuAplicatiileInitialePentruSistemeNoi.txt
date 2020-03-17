@@ -19,8 +19,23 @@ ANDROID:
 
 
 LINUX: 
-	un commander 
-	etc
+	1. instalam TeamViewer 
+	Open your terminal either by using the Ctrl+Alt+T keyboard shortcut or by 
+		clicking on the terminal icon. Trebuie sa fim intr-un director unde se poate scrie
+	Download the latest TeamViewer .deb package with the following wget command:
+		wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+	Install the TeamViewer .deb package by issuing the following command as a user with sudo privileges:
+		sudo apt install ./teamviewer_amd64.deb	
+	
+2. inregistram TeamViewer in contul personal , setare pentru a se lansa la startare ubuntu + acces 
+	unatended 
+3. Pentru conectarea prin WiFi USB TpLink pentru serverul DellPowerEdge2014 ar trebui urmate 
+	instructiunile de compilare din pdf-ul producatorului 
+
+4. Instalare micunelte 
+5. Instalare Google Chrome 
+6. ideal ar fi un comander pentru fisiere care sa fie comun tuturor sistemelor de operare 
+
 
 
 
