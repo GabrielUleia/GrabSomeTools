@@ -8,13 +8,15 @@ WINDOWS:
 	Chrome 
 	Firefox 
 	Syncthing portable 
-
+	WhatsApp 
+	
 
 ANDROID: 
 	Amaze 
 	Sheets 
 	AdobeReader 
 	Lampe de Poche 
+	WhatsApp
 	etc 
 
 
@@ -37,6 +39,8 @@ LINUX:
 4. Instalare micunelte 
 5. Instalare Google Chrome 
 6. ideal ar fi un comander pentru fisiere care sa fie comun tuturor sistemelor de operare 
+7. whatsApp 
+
 
 
 
