@@ -1,3 +1,7 @@
+Pentru toate platformele: 
+seteaza folderul de download din browsere in Temp 
+
+
 
 WINDOWS: 
 	FreeCommander 
