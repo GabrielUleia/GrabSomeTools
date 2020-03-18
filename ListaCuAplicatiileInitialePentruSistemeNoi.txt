@@ -1,6 +1,6 @@
 Pentru toate platformele: 
 seteaza folderul de download din browsere in Temp 
-
+driver-ul de la imprimanta samsung ... Se poate instala si pe Ubuntu ?! 
 
 
 WINDOWS: 
