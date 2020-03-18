@@ -26,6 +26,7 @@ ANDROID:
 
 LINUX: 
 	instalare Ubuntu Desktop 18.04, varianta completa nu redusa 
+	pentru conectarea la retea retea prin LAN tre dezactivat proxy in setarile Network sau browser. Dongle WiFi e f greu de instalat ca sa mearga repede. Nu am reusit cu toate incercarile de pachete de pe forumuri
 	rulare update dupa aia 
 	1. instalam TeamViewer 
 	Open your terminal either by using the Ctrl+Alt+T keyboard shortcut or by 
