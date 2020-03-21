@@ -26,7 +26,10 @@ ANDROID:
 
 LINUX: 
 	instalare Ubuntu Desktop 18.04, varianta completa nu redusa 
-	pentru conectarea la retea retea prin LAN tre dezactivat proxy in setarile Network sau browser. Dongle WiFi e f greu de instalat ca sa mearga repede. Nu am reusit cu toate incercarile de pachete de pe forumuri. La TpLink pentru serverul DellPowerEdge2014 ar trebui urmate instructiunile de compilare din pdf-ul producatorului dar sunt pentru Ubuntu 16.04
+	pentru conectarea la retea retea prin LAN tre dezactivat proxy in setarile Network sau browser. Dongle WiFi e f greu 
+		de instalat ca sa mearga repede. Nu am reusit cu toate incercarile de pachete de pe forumuri. La TpLink pentru 
+		serverul DellPowerEdge2014 ar trebui urmate instructiunile de compilare din pdf-ul producatorului dar sunt pentru 
+		Ubuntu 16.04
 	
 	rulare update dupa aia 
 	1. instalam TeamViewer 
