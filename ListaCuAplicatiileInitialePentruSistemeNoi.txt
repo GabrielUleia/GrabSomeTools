@@ -4,16 +4,12 @@ driver-ul de la imprimanta samsung ... Se poate instala si pe Ubuntu ?!
 
 
 WINDOWS: 
-	FreeCommander 
-	Notepad++ 
+	Micunelte 
 	KeePass portable 
-	7zip 
 	Daemon tools 
 	Chrome 
 	Firefox 
-	Syncthing portable 
 	WhatsApp 
-	
 
 ANDROID: 
 	Amaze 
@@ -22,7 +18,6 @@ ANDROID:
 	Lampe de Poche 
 	WhatsApp
 	etc 
-
 
 LINUX: 
 	instalare Ubuntu Desktop 18.04, varianta completa nu redusa 
@@ -48,7 +43,13 @@ LINUX:
 6. ideal ar fi un comander pentru fisiere care sa fie comun tuturor sistemelor de operare 
 7. whatsApp 
 
-
+BASIC-ul pentru toate masinile: 
+- update-ul sistemului 
+- Guest Additions 
+- Team Viewer, ca sa putem face si transferuri de fisiere usor 
+- Micuneltele 
+- Google Chrome, Firefox, whatsApp 
+- Configurari: facut folder Temp, setat folder de download pt browsere in Temp 
 
 
 
