@@ -50,6 +50,8 @@ BASIC-ul pentru toate masinile:
 - Micuneltele 
 - Google Chrome, Firefox, whatsApp 
 - Configurari: facut folder Temp, setat folder de download pt browsere in Temp 
+- Open Office 
+
 
 
 
