@@ -63,4 +63,9 @@ Windows 10, creare de masina virtuala:
 5. Setare pentru Coogle Chrome si Firefox -> documente de download in Temp + motor de cautare Google 
 6. Activare IIS + FTP 
 
+De la Windows 10 basic la UmbracoBase: 
+- instalare VisualStudio 2017 
+- instalare Sql Server Express 
+- instalre pachete NuGet Umbraco 
+
 
