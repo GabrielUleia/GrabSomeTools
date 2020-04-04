@@ -46,12 +46,20 @@ LINUX:
 BASIC-ul pentru toate masinile: 
 - update-ul sistemului 
 - Guest Additions 
-- Team Viewer, ca sa putem face si transferuri de fisiere usor 
+- Team Viewer 
 - Micuneltele 
 - Google Chrome, Firefox, whatsApp 
 - Configurari: facut folder Temp, setat folder de download pt browsere in Temp 
 - Open Office 
 
 
-
+Windows-ul, creare de masina virtuala: 
+- la masina facuta pe 20200404 am sters cateva fisiere din greseala inainte sa finalizez toate instalarile 
+- Guet Additions 
+1. update-uri 
+2. setare folder de partaj cu host-ul -> PartajGazda 
+3. copiere micunelte 
+4. Instalare Google Chrome, Firefox, WhatsApp 
+5. Setare pentru Coogle Chrome si Firefox -> documente de download in Temp + motor de cautare Google 
+6. 
 
