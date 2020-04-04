@@ -64,11 +64,13 @@ Windows 10, creare de masina virtuala:
 6. Activare IIS + FTP 
 
 De la Windows 10 basic la UmbracoBase: 
-- instalare VisualStudio 2019 
-- instalare Sql Server Express 2017 - noteaza parola pentru sa !!! 
-- instalre pachete NuGet Umbraco 
 - trebuie facut update-urile sistem 
-- setat placa de retea pe 200 
+- activare Windows 
+- instalare Sql Server Express 2017 - trebuie ales modul "Custom" nu "Basic" pentru a putea alege "Mixed Mode" la Authentication 
+	si sa ne putem loga cu user-ul sa 
+- instalare VisualStudio 2019 
+- instalre pachete NuGet Umbraco 
+- setat placa de retea pe 200 -> pentru PROD 
 - verifica ca Network-ul pentru VirtualBox este pe Bridge Adapter 
 - instalat certificatul de la Let's Encrypt 
 3. setat TLS 1.2 pe default 
