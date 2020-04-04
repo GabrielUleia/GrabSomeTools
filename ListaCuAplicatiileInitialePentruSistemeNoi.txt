@@ -53,7 +53,7 @@ BASIC-ul pentru toate masinile:
 - Open Office 
 
 
-Windows-ul, creare de masina virtuala: 
+Windows 10, creare de masina virtuala: 
 - la masina facuta pe 20200404 am sters cateva fisiere din greseala inainte sa finalizez toate instalarile 
 - Guet Additions 
 1. update-uri 
@@ -61,5 +61,6 @@ Windows-ul, creare de masina virtuala:
 3. copiere micunelte 
 4. Instalare Google Chrome, Firefox, WhatsApp 
 5. Setare pentru Coogle Chrome si Firefox -> documente de download in Temp + motor de cautare Google 
-6. 
+6. Activare IIS + FTP 
+
 
