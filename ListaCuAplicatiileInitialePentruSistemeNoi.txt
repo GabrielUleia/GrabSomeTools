@@ -70,9 +70,14 @@ De la Windows 10 basic la UmbracoBase:
 	si sa ne putem loga cu user-ul sa 
 - instalare VisualStudio 2019 
 - instalre pachete NuGet Umbraco 
-- setat placa de retea pe 200 -> pentru PROD 
+- lansare proiect UmbracoCMS, setare baza locala pe sa si fara pachetul de start (se poate instala apoi)
 - verifica ca Network-ul pentru VirtualBox este pe Bridge Adapter 
+3. verifica ca se foloseste TLS 1.2 
+4. instalat serverul FTP 
+
+De La UmbracoBase la PROD: 
+- setat placa de retea pe 200 -> pentru PROD 
 - instalat certificatul de la Let's Encrypt 
-3. setat TLS 1.2 pe default 
-4. pus serverul FTP 
+- eventual configurat server-ul FTP 
+
 
