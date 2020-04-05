@@ -70,7 +70,8 @@ De la Windows 10 basic la UmbracoBase:
 	si sa ne putem loga cu user-ul sa 
 - instalare VisualStudio 2019 
 - instalre pachete NuGet Umbraco 
-- lansare proiect UmbracoCMS, setare baza locala pe sa si fara pachetul de start (se poate instala apoi)
+- lansare proiect UmbracoCMS: customized -> setare baza locala pe sa si fara pachetul de start (se poate instala apoi). Trebuie sa 
+	creem noi o baza noua pentru Umbraco
 - verifica ca Network-ul pentru VirtualBox este pe Bridge Adapter 
 3. verifica ca se foloseste TLS 1.2 
 4. instalat serverul FTP 
