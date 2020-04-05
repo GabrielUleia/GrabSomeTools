@@ -74,7 +74,6 @@ De la Windows 10 basic la UmbracoBase:
 	creem noi o baza noua pentru Umbraco
 - verifica ca Network-ul pentru VirtualBox este pe Bridge Adapter 
 3. verifica ca se foloseste TLS 1.2 
-4. instalat serverul FTP 
 
 De La UmbracoBase la PROD: 
 - setat placa de retea pe 200 -> pentru PROD 
