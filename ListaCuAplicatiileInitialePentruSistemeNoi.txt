@@ -61,7 +61,7 @@ Windows 10, creare de masina virtuala:
 3. copiere micunelte 
 4. Instalare Google Chrome, Firefox, WhatsApp 
 5. Setare pentru Coogle Chrome si Firefox -> documente de download in Temp + motor de cautare Google 
-6. Activare IIS + FTP 
+6. Activare IIS (pune si optiunile de includere Framework 4.8!!!) + FTP 
 
 De la Windows 10 basic la UmbracoBase: 
 - trebuie facut update-urile sistem 
