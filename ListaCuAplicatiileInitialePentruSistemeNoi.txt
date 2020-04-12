@@ -58,7 +58,10 @@ Windows 10, creare de masina virtuala:
 - Guet Additions 
 1. update-uri 
 2. setare folder de partaj cu host-ul -> PartajGazda 
-3. copiere micunelte 
+3. copiere micunelte + 
+	- creaza shortcut in windows catre bat-ul care lanseaza sesiunea de lucru (trebuie pus un "icon shortcut" pe desktop, 
+		se pare ca altfel nu merge) + putine alte shortcut-uri utile eventual 
+	- restul shortcut-urilor ar trebui facute cu autohotkey ca sa nu mai depindem de windows 
 4. Instalare Google Chrome, Firefox, WhatsApp 
 5. Setare pentru Coogle Chrome si Firefox -> documente de download in Temp + motor de cautare Google 
 6. Activare IIS (pune si optiunile de includere Framework 4.8!!!) + FTP 
