@@ -1,3 +1,5 @@
+Un bun candidat pentru client FTP/explorer de fisiere este FileZilla !!! Este: open source, scris in C++, multiplatforma linux si windows, suporta sftp, are server ftp pentru windows si suport comercial. Check it out !!! 
+
 Pentru toate platformele: 
 seteaza folderul de download din browsere in Temp 
 driver-ul de la imprimanta samsung ... Se poate instala si pe Ubuntu ?! 
