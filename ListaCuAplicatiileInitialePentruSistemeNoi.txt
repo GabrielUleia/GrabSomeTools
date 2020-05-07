@@ -2,7 +2,7 @@ Un bun candidat pentru client FTP/explorer de fisiere este FileZilla !!! Este: o
 
 Pentru toate platformele: 
 seteaza folderul de download din browsere in Temp 
-driver-ul de la imprimanta samsung ... Se poate instala si pe Ubuntu ?! 
+driver-ul de la imprimanta samsung ... Se poate instala si pe Ubuntu ?!? 
 
 
 WINDOWS: 
