@@ -1,4 +1,10 @@
 Un bun candidat pentru client FTP/explorer de fisiere este FileZilla !!! Este: open source, scris in C++, multiplatforma linux si windows, suporta sftp, are server ftp pentru windows si suport comercial. Check it out !!! 
+Un alt candidat ar fi Conqueror
+
+Expression de besoin pentru productivitate work: 
+- shortcut-uri pentru aplicatiile uzuale 
+- tastatura simetrica 
+
 
 Pentru toate platformele: 
 seteaza folderul de download din browsere in Temp 
