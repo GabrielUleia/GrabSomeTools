@@ -13,11 +13,9 @@ driver-ul de la imprimanta samsung ... Se poate instala si pe Ubuntu ?!?
 
 WINDOWS: 
 	Micunelte 
-	KeePass portable 
 	Daemon tools 
-	Chrome 
-	Firefox 
-	WhatsApp 
+	Brave 
+	Firefox  
 
 ANDROID: 
 	Amaze 
