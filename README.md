@@ -11,3 +11,4 @@ Just go over the net and take some usual tools, needed on a just installed syste
 To do: 
 pentru a instala o lista de aplicatii in android: https://www.androidbean.com/install-multiple-android-apps/ 
 
+from the new brancjh 
